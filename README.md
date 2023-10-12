@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Web Developer.
-Skills: ReactJS / TypeScript / JavaScript / NodeJS / MongoDB 
+Skills: Next.js / ReactJS / TypeScript / JavaScript / NodeJS / NestJS / Express / MongoDB / SASS
 
 🚀 I’m currently improving my English level and learning web-development technologies. 
 
